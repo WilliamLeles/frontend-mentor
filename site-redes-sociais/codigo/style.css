@@ -1,0 +1,81 @@
+body {
+    background-color: hsl(0, 0%, 8%);
+    font-family: 'Inter';
+}
+
+main {
+    background-color: hsl(0, 0%, 12%);
+    width: 90%;
+    height: 72%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+}
+
+img {
+    position: relative;
+    left: 50%;
+    top: 20px;
+    transform: translateX(-50%);
+    border-radius: 200px;
+    width: 90px;
+}
+
+.nome {
+   text-align: center;
+   padding-top: 40px;
+   padding-bottom: 10px;
+   color: hsl(0, 0%, 100%);
+   font-family: 'Inter';
+   font-weight: 700;
+}
+
+.local {
+    text-align: center;
+    color: hsl(75, 94%, 57%);
+    font-size: 14px;
+    padding-bottom: 30px;
+    font-family: 'Inter';
+    font-weight: 600;
+}
+
+.descricao {
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+    padding-bottom: 30px;
+    font-size: 14px;
+    font-family: 'Inter';
+}
+
+.botao {
+    display: block;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%);
+    margin-bottom: 15px;
+    width: 80%;
+    height: 20px;
+    padding: 15px;
+    border-color: transparent;
+    border-radius: 9px;
+    background-color: hsl(0, 0%, 20%);
+    text-decoration: none;
+    color: hsl(0, 0%, 100%);
+    font-family: 'Inter';
+    font-weight: 600;
+    text-align: center;
+}
+
+
+a:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(./fonts/Inter-VariableFont_slnt\,wght.ttf)
+}
