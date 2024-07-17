@@ -14,3 +14,7 @@ Nesse desafio o desenvolvedor recebe o layout mobile e desktop de uma pagina com
 ## Evolução 🚀
 
 esse projeto me ajudou muito a entender a semântica do HTML e do CSS e a entender como funcionam algumas propriedades do CSS
+
+## Link
+
+[site com redes sociais](https://williamleles.github.io/frontend-mentor/site-redes-sociais/codigo/)
