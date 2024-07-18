@@ -14,3 +14,4 @@ os Desafios do FrontEnd Mentor são voltados para a construção de interfaces u
 
 - [projeto site com receita](https://williamleles.github.io/frontend-mentor/projeto-site-receita/codigo/)
 - [site com redes sociais](https://williamleles.github.io/frontend-mentor/site-redes-sociais/codigo/)
+- [site com preview card do blog](https://williamleles.github.io/frontend-mentor/projeto-blog/codigo/)
