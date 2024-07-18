@@ -17,4 +17,4 @@ esse projeto me ajudou muito a entender a semântica do HTML e do CSS e a entend
 
 ## Link
 
-[site com redes sociais](https://williamleles.github.io/frontend-mentor/projeto-blog/codigo/)
+[site com preview card do blog](https://williamleles.github.io/frontend-mentor/projeto-blog/codigo/)
