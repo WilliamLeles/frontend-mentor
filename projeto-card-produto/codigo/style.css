@@ -1,0 +1,92 @@
+body {
+    background-color: hsl(30, 38%, 92%);
+}
+
+main {
+    background-color: hsl(0, 0%, 100%);
+    width: 90%;
+    height: 89vh;
+    position: relative;
+    top: 50vh;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 12px;
+
+}
+
+picture img {
+    background-attachment: fixed;
+    width: 100%;
+    height: 37vh;
+    border-radius: 12px;
+    padding: 0;
+    padding-bottom: 15px;
+}
+
+p {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+}
+
+p, h1, button {
+    margin: 0px 20px 0px 20px;
+}
+
+#perfume {
+    text-transform: uppercase;
+    font-size: 14px;
+    padding-bottom: 15px;
+    color: hsl(228, 12%, 48%);
+}
+
+h1 {
+    font-size: 30px;
+    padding-bottom: 15px;
+    color: hsl(212, 21%, 14%);
+    font-family: "Fraunces", serif;
+    font-weight: 700;
+}
+
+#descricao {
+    color: hsl(228, 12%, 48%);
+    font-size: 17px;
+    padding-bottom: 10px;
+}
+
+#preco-desconto {
+    display: inline-block;
+    font-size: 38px;
+    padding-left: 20px;
+    color: hsl(158, 36%, 37%);
+    font-family: "Fraunces", serif;
+}
+
+#preco-normal {
+    display: inline-block;
+    text-decoration: line-through;
+    color: hsl(228, 12%, 48%);
+    position: relative;
+    bottom: 1.2vh;
+}
+
+button {
+    display: inline-flex;
+    margin-top: 20px;
+    width: 300px;
+    height: 50px;
+    background-color: hsl(158, 36%, 37%);
+    border-color: transparent;
+    color: hsl(0, 0%, 100%);
+    align-items: center;
+    justify-content: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    border-radius: 9px;
+}
+
+#icone {
+    padding-right: 10px;
+}
+
+@import url(https://fonts.google.com/specimen/Fraunces);
+@import url(https://fonts.google.com/specimen/Montserrat);
